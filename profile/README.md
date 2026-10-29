@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Ossara-Group/.github/main/assets/ossara-logo-horizontal.png" alt="Logo officiel OSSARA" width="680" />
+
+<h1>Intelligence &amp; Technologies</h1>
+
+<p><strong>De l’idée à l’innovation.</strong></p>
+
+</div>
+
 <alt="Ossara Group" width="740" />
 
 Intelligence & Technologies
