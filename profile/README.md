@@ -8,8 +8,6 @@
 
 </div>
 
-<alt="Ossara Group" width="740" />
-
 Intelligence & Technologies
 Conception de solutions technologiques intelligentes pour la finance, l’actuariat et l’automatisation.
 
