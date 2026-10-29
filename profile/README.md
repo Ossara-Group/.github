@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ossara-Group/.github/main/assets/ossara-logo-horizontal.png" alt="Ossara Group" width="740" />
+<img src="" alt="Ossara Group" width="740" />
 
 Intelligence & Technologies
 Conception de solutions technologiques intelligentes pour la finance, l’actuariat et l’automatisation.
